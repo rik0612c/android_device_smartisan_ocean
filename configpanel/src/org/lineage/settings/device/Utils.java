@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019 The MoKee Open Source Project
+ * Copyright (C) 2019 The lineage Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.mokee.settings.device;
+package org.lineageos.settings.device;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -23,7 +23,7 @@ import android.content.pm.PackageManager;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import org.mokee.internal.util.FileUtils;
+import org.lineageos.internal.util.FileUtils;
 
 class Utils {
 
